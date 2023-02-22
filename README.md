@@ -21,7 +21,7 @@
 מאגר (repository) זה מכיל מחברות לשימושים שונים:
 
 
-[וויספר](https://openai.com/blog/whisper) (Whisper) היא מערכת לזיהוי דיבור (ASR: Automatic Speech Recognition) מבית [OpenAI](https://openai.com) הזמינה לציבור הרחב בקוד פתוח. מערכת זו אומנה על יותר מ-680 אלף שעות של אודיו באנגלית ובשפות רבות אחרות – בהן גם עברית וערבית. מטרת מחברות אלו היא להנגיש את יכולות התמלול של המערכת לציבור הרחב בצורה אינטואיטיבית ונוחה
+1. מחברת לתמלול קבצי אודיו בלבד (בודדים/מרובים): [Whisper_Audio.ipynb]([https://openai.com](https://github.com/Sourasky-DHLAB/Whisper/blob/main/Whisper_Audio.ipynb). למתחילים מומלץ להתחיל עם מחברת זו.
 
 
 1. מחברת לתמלול קבצי אודיו בלבד (בודדים/מרובים): [Whisper_Audio.ipynb](https://github.com/Sourasky-DHLAB/Whisper/blob/main/Whisper_Audio.ipynb) -  למתחילים מומלץ להתחיל עם מחברת זו.
