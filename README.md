@@ -11,7 +11,8 @@
 
 ## שימוש נכון במחברות
 
-כדי להשתמש במחברות יש להיעזר ב־Google Colab – כלי שמאפשר לנו לצפות ולהריץ את המחברות שהכנו עבורכם מראש. כדי לפתוח מחברת בסביבת Google Colab יש ללחוץ על הכפתור הבא שנמצא בראשית כל מחברת: <img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/colab.png" style="display: block; margin-left: auto; margin-right: auto;">
+כדי להשתמש במחברות יש להיעזר ב־Google Colab – כלי שמאפשר לנו לצפות ולהריץ את המחברות שהכנו עבורכם מראש. כדי לפתוח מחברת בסביבת Google Colab יש ללחוץ על הכפתור הבא שנמצא בראשית כל מחברת:
+<img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/colab.png" style="display: block; margin-left: auto; margin-right: auto;">
 
 ## דוגמה מתוך המחברות
 
