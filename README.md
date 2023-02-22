@@ -1,2 +1,2 @@
 # Whisper
-Google Colab notebooks for transcription using Whisper
+Google Colab notebooks for trasncribing files using Whisper
