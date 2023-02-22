@@ -19,9 +19,9 @@
 ## סוגי מחברות במאגר
 
 מאגר (repository) זה מכיל מחברות לשימושים שונים:
-
+<div dir="rtl" markdown="1">
 1. מחברת לתמלול קבצי אודיו בלבד (בודדים/מרובים): [Whisper_Audio.ipynb]([https://openai.com](https://github.com/Sourasky-DHLAB/Whisper/blob/main/Whisper_Audio.ipynb). למתחילים מומלץ להתחיל עם מחברת זו.
-
+<div dir="rtl" markdown="1">
 
 1. מחברת לתמלול קבצי אודיו בלבד (בודדים/מרובים): [Whisper_Audio.ipynb](https://github.com/Sourasky-DHLAB/Whisper/blob/main/Whisper_Audio.ipynb) -  למתחילים מומלץ להתחיל עם מחברת זו.
 
