@@ -18,6 +18,8 @@
 
 ## דוגמה מתוך המחברות
 
-!(./screenshot.png)
+<p align="center">
+    <img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/screenshot.png">
+</p>
  
 </div>
