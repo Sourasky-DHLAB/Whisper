@@ -2,7 +2,7 @@
 <div dir="rtl" markdown="1">
 
 <p align="center">
-<img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Whisper.png" style="display: block; margin-left: auto; margin-right: auto;" alt="לוגו של מיזם לימוד הפייתון. נחש מצויר בצבעי צהוב וכחול, הנע בין האותיות של שם הקורס: לומדים פייתון. הסלוגן המופיע מעל לשם הקורס הוא מיזם חינמי ללימוד תכנות בעברית.">
+<img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Whisper.png" style="display: block; margin-left: auto; margin-right: auto;">
 </p>
 
 # קורס פייתון – מיזם חינמי ללימוד תכנות בעברית
