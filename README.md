@@ -15,9 +15,7 @@
 <p align="center">
     <img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/colab.png">
 </p>
-</div>
 
-<div dir="rtl" markdown="1">
 ## סוגי מחברות במאגר
 
 מאגר (repository) זה מכיל מחברות לשימושים שונים:
