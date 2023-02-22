@@ -20,10 +20,10 @@
 
 מאגר (repository) זה מכיל מחברות לשימושים שונים:
 <div dir="rtl" markdown="1">
-1. מחברת לתמלול קבצי אודיו בלבד (בודדים/מרובים): [OpenAI](https://openai.com). למתחילים מומלץ להתחיל עם מחברת זו.
+1. מחברת לתמלול קבצי אודיו בלבד (בודדים/מרובים): <a href="https://www.w3schools.com">Visit W3Schools</a>.
 <div dir="rtl" markdown="1">
 
-1. מחברת לתמלול קבצי אודיו בלבד (בודדים/מרובים): [Whisper_Audio.ipynb](https://github.com/Sourasky-DHLAB/Whisper/blob/main/Whisper_Audio.ipynb) -  למתחילים מומלץ להתחיל עם מחברת זו.
+2. מחברת לתמלול קבצי אודיו בלבד (בודדים/מרובים): [Whisper_Audio.ipynb](https://github.com/Sourasky-DHLAB/Whisper/blob/main/Whisper_Audio.ipynb) -  למתחילים מומלץ להתחיל עם מחברת זו.
 
 ## דוגמה מתוך המחברות
 
