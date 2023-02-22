@@ -15,23 +15,17 @@
 <p align="center">
     <img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/colab.png">
 </p>
-
+</div>
 
 <div dir="rtl" markdown="1">
-
-
 ## סוגי מחברות במאגר
 
 מאגר (repository) זה מכיל מחברות לשימושים שונים:
-
 
 1. מחברת לתמלול קבצי אודיו בלבד (בודדים/מרובים): [Whisper_Audio.ipynb]([https://openai.com](https://github.com/Sourasky-DHLAB/Whisper/blob/main/Whisper_Audio.ipynb). למתחילים מומלץ להתחיל עם מחברת זו.
 
 
 1. מחברת לתמלול קבצי אודיו בלבד (בודדים/מרובים): [Whisper_Audio.ipynb](https://github.com/Sourasky-DHLAB/Whisper/blob/main/Whisper_Audio.ipynb) -  למתחילים מומלץ להתחיל עם מחברת זו.
-2. 
-
-2. [Whsiper_Video.ipynb](https://github.com/Sourasky-DHLAB/Whisper/blob/main/Whsiper_Video.ipynb) - מחברת לתמלול קבצי וידאו. מעבר לתמלול, מחברת זו כוללת חילוץ אודיו מקובץ וידאו ובדיקת איכות התמלול. <br>
 
 ## דוגמה מתוך המחברות
 
