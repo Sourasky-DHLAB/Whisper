@@ -13,7 +13,7 @@
 
 כדי להשתמש במחברות יש להיעזר ב־Google Colab – כלי שמאפשר לנו לצפות ולהריץ את המחברות שהכנו עבורכם מראש. כדי לפתוח מחברת בסביבת Google Colab יש ללחוץ על הכפתור הבא שנמצא בראשית כל מחברת:<br><br>
 <p align="center">
-    <img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/colab.png>
+    <img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/colab.png">
 </p>
 
 ## דוגמה מתוך המחברות
