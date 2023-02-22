@@ -19,8 +19,8 @@
 
 <div dir="rtl" markdown="1">
 מאגר (repository) זה מכיל מחברות לשימושים שונים:<br>
-1. Whisper_Audio.ipynb - מחברת לתמלול קבצי אודיו בלבד (בודדים/מרובים). למתחילים מומלץ להתחיל עם מחברת זו.<br>
-2. Whsiper_Video.ipynb - מחברת לתמלול קבצי וידאו. מעבר לתמלול, מחברת זו כוללת חילוץ אודיו מקובץ וידאו ובדיקת איכות התמלול. <br>
+1. [Whisper_Audio.ipynb](https://github.com/Sourasky-DHLAB/Whisper/blob/main/Whisper_Audio.ipynb) - מחברת לתמלול קבצי אודיו בלבד (בודדים/מרובים). למתחילים מומלץ להתחיל עם מחברת זו.<br>
+2. [Whsiper_Video.ipynb](https://github.com/Sourasky-DHLAB/Whisper/blob/main/Whsiper_Video.ipynb) - מחברת לתמלול קבצי וידאו. מעבר לתמלול, מחברת זו כוללת חילוץ אודיו מקובץ וידאו ובדיקת איכות התמלול. <br>
 
 ## דוגמה מתוך המחברות
 
