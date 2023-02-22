@@ -18,11 +18,6 @@
 
 ## דוגמה מתוך המחברות
 
-![תמונת מסך מתוך המחברת שמלמדת comprehensions](./screenshot.png)
-
-## תודות
-
-המחברות נכתבו על ידי [ים מסיקה](https://www.mesicka.com), בעזרתה הנדיבה של העורכת הלשונית [דפי בר אילן](https://www.dafibarilan.com/).
-את מחברות הסיכום ברובן כתב איתמר רביב, ואת הלוגו עיצב [אליאל דן לוי](https://www.elielart.com/). למשתתפים נוספים ביצירת המחברות לחצו [פה](https://github.com/PythonFreeCourse/Notebooks/blob/master/AUTHORS.rst). 
-
+!(./screenshot.png)
+ 
 </div>
