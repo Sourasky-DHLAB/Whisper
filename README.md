@@ -5,6 +5,7 @@
 <img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Whisper.png" style="display: block; margin-left: auto; margin-right: auto;">
 </p>
 
+
 # תמלול אוטומטי של וידאו ואודיו באמצעות Whisper
 
 [וויספר](https://openai.com/blog/whisper) (Whisper) היא מערכת לזיהוי דיבור (ASR: Automatic Speech Recognition) מבית [OpenAI](https://openai.com) הזמינה לציבור הרחב בקוד פתוח. מערכת זו אומנה על יותר מ-680 אלף שעות של אודיו באנגלית ובשפות רבות אחרות – בהן גם עברית וערבית. מטרת מחברות אלו היא להנגיש את יכולות התמלול של המערכת לציבור הרחב בצורה אינטואיטיבית ונוחה. 
