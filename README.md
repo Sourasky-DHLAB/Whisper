@@ -1,4 +1,4 @@
-<div dir="rtl" markdown="1">
+<div style="direction:rtl" dir="rtl"><div dir="rtl" markdown="1">
 
 <p align="center">
 <img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Resources/Whisper.png" style="display: block; margin-left: auto; margin-right: auto;">
