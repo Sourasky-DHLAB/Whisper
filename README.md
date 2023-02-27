@@ -2,7 +2,7 @@
 <div dir="rtl" markdown="1">
 
 <p align="center">
-<img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Whisper.png" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Resources/Whisper.png" style="display: block; margin-left: auto; margin-right: auto;">
 </p>
 
 # תמלול אוטומטי של וידאו ואודיו באמצעות Whisper
@@ -13,7 +13,7 @@
 
 כדי להשתמש במחברות יש להיעזר ב־Google Colab – כלי שמאפשר לנו לצפות ולהריץ את המחברות שהכנו עבורכם מראש. כדי לפתוח מחברת בסביבת Google Colab יש ללחוץ על הכפתור הבא שנמצא בראשית כל מחברת:<br>
 <p align="center">
-    <img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/colab.png">
+    <img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Resources/colab.png">
 </p>
 
 ## סוגי מחברות במאגר
@@ -26,7 +26,7 @@
 ## דוגמה מתוך המחברות
 
 <p align="center">
-    <img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/screenshot.png">
+    <img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Resources/screenshot.png">
 </p>
  
 </div>
