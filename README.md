@@ -1,4 +1,4 @@
-<div style="direction:rtl" dir="rtl"><div dir="rtl" markdown="1">
+<div dir="rtl" markdown="1">
 
 <p align="center">
 <img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Resources/Whisper.png" style="display: block; margin-left: auto; margin-right: auto;">
@@ -14,8 +14,7 @@
 
 <h2 id="סוגי-מחברות-במאגר">סוגי מחברות במאגר</h2>
 <p>מאגר (repository) זה מכיל מחברות לשימושים שונים:</p>
-<div dir="rtl" markdown="1"></div>
-<div style="direction:rtl; float: right;" dir="rtl"><ol style="list-style: decimal; margin: 40; padding: 0;">
+<ol style="list-style: decimal; margin: 40; padding: 0; float: right;">
 <li> <a href="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Colab/Whisper_Audio.ipynb">Whisper_Audio.ipynb</a>: מחברת לתמלול קבצי אודיו בלבד (בודדים/מרובים(למתחילים מומלץ להתחיל עם מחברת זו.</li>
 <li><a href="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Colab/Whsiper_Video.ipynb">Whisper_Video.ipynb</a>: <a href="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Colab/Whsiper_Video.ipynb">Whisper_Video.ipynb</a>. מחברת זו מאפשרת לתמלל קבצי      וידאו תוך חילוץ שכבת האודיו. לאחר מכן ניתן להשוות את איכות הפלט אל מול תמליל המקור.</li></ol>
 
