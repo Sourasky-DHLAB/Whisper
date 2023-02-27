@@ -13,7 +13,7 @@
 </p>
 
 <h2 id="סוגי-מחברות-במאגר">סוגי מחברות במאגר</h2>
-<p>מאגר (repository) זה מכיל מחברות לשימושים שונים:</p>
+<p>מאגר (repository) זה מכיל מחברות לשימושים שונים:</p></div>
  <div dir="RTL">
     <ol>
         <li> <a href="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Colab/Whisper_Audio.ipynb">Whisper_Audio.ipynb</a>: מחברת לתמלול קבצי אודיו בלבד (בודדים/מרובים(למתחילים מומלץ להתחיל עם מחברת זו.</li>
