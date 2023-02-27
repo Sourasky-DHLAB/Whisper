@@ -20,8 +20,8 @@
 
 מאגר (repository) זה מכיל מחברות לשימושים שונים:
 <div dir="rtl" markdown="1">
-1. מחברת לתמלול קבצי אודיו בלבד (בודדים/מרובים): <a href="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Whisper_Audio.ipynb">Whisper_Audio.ipynb</a>. למתחילים מומלץ להתחיל עם מחברת זו.<br>
-2. מחברת לתמלול קבצי וידאו: <a href="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Whsiper_Video.ipynb">Whisper_Video.ipynb</a>. מחברת זו מאפשרת לתמלל קבצי      וידאו תוך חילוץ שכבת האודיו. לאחר מכן ניתן להשוות את איכות הפלט אל מול תמליל המקור.
+1. מחברת לתמלול קבצי אודיו בלבד (בודדים/מרובים): <a href="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Colab/Whisper_Audio.ipynb">Whisper_Audio.ipynb</a>. למתחילים מומלץ להתחיל עם מחברת זו.<br>
+2. מחברת לתמלול קבצי וידאו: <a href="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Colab/Whsiper_Video.ipynb">Whisper_Video.ipynb</a>. מחברת זו מאפשרת לתמלל קבצי      וידאו תוך חילוץ שכבת האודיו. לאחר מכן ניתן להשוות את איכות הפלט אל מול תמליל המקור.
 
 ## דוגמה מתוך המחברות
 
