@@ -17,7 +17,7 @@
 
 
 <ol>
-<li>נירמול פלט התמלול של Whisper וקובץ התמלול המקורי  - הסרת סימני פיסוק, רווחים מיותרים, קפיטליזציה וכו&#39;. הנתיב של הקובץ שהפקתם באמצעות Whisper מוגדר במשתנה מוגדר במשתנה <code>whisper_output</code>. הנתיב של קובץ התמלול המקורי מוגדר במשתנה <code>ground_truth</code>.</li>
+<li> <a href="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Colab/Whisper_Audio.ipynb">Whisper_Audio.ipynb</a>: מחברת לתמלול קבצי אודיו בלבד (בודדים/מרובים(למתחילים מומלץ להתחיל עם מחברת זו.</li>
 <li>השוואה בין שני הקבצים וחישוב אחוז השגיאות בהתאם למדד <a href="https://https://en.wikipedia.org/wiki/Word_error_rate">Word Error Rate</a> - באמצעות ספריית jiwer.</li>
 </ol>
 <p style="text-align: right; direction: rtl; float: right;">הפלט המתקבל מוצג באחוזים ומצביע על אחוז המילים השגויות בקובץ התמלול, וזאת בהשוואה לקובץ המקור. כלומר, במידה ואחוז השגיאות עומד על כ-3%, אזי מתוך 100 מילים יש 3 מילים שגויות.</p>
